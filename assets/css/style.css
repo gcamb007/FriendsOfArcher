@@ -1,0 +1,44 @@
+body {
+    background-image: url(../images/01.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.jumbotron {
+    margin-top: 600px;
+    height: 240px;
+    background-color: rgba(255, 255, 255, .5);
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Raleway", sans-serif;
+    font-weight: 400;
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+
+.btn {
+    margin-right: 30px;
+}
+
+a {
+    color: black;
+    transition: 0.5s;
+}
+
+a:hover,
+a:active,
+a:focus {
+    color: white;
+    outline: none;
+    text-decoration: none;
+}
+
+p {
+    padding: 0;
+    margin: 0 0 30px 0;
+}

@@ -1,0 +1,13 @@
+body {
+   background-image: url(../images/02.jpg);
+   background-position: center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-attachment: fixed;
+}
+
+
+.quiz-questions {
+    background-color: black;
+    padding: 30px;
+}
