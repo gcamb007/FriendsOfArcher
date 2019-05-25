@@ -25,13 +25,12 @@ h3 {
     margin-right: 30px;
 }
 
-a {
+a, a:active {
     color: black;
     transition: 0.5s;
 }
 
 a:hover,
-a:active,
 a:focus {
     color: white;
     outline: none;
